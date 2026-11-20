@@ -39,11 +39,3 @@ VERIFICATION
 
 DONE WHEN: both verification gates pass. Deliver index.html, the bundle size, the perf report and the critic's final review.
 ```
-
-## 后续要求
-
-```text
-做成中文版
-录制本游戏的视频1min
-60帧
-```
